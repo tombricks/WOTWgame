@@ -1,0 +1,4 @@
+# CHI
+set_color 245 12 55 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,4 @@
+# NGR
+set_color 110 123 59 yes 
+reset_color
+set_ruling_party Socialism

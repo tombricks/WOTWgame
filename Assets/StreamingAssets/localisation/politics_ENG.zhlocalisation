@@ -1,0 +1,27 @@
+Hypersocialism:Hypersocialist
+Hypersocialism_desc:Hypersocialist Regime
+Hypersocialism_noun:Hypersocialism
+Marxism_Leninism:Soviet-Aligned Communist
+Marxism_Leninism_desc:Soviet-Aligned Regime
+Marxism_Leninism_noun:Soviet-Aligned Communism
+Socialism:Socialist
+Socialism_desc:Socialist Regime
+Socialism_noun:Socialism
+New_Marxism:Chinese-Aligned Communist
+New_Marxism_desc:Chinese-Aligned Regime
+New_Marxism_noun:Chinese-Aligned Communism
+Reactionism:Reactionary
+Reactionism_desc:Reactionary Regime
+Reactionism_noun:Reactionism
+
+### Parties
+Hypersocialism_party:Hypersocialists
+Hypersocialism_party_long:Hypersocialist Party of $GetCountryNonideologyName?THIS$
+Marxism_Leninism_party:Communists
+Marxism_Leninism_party_long:Communist Party of $GetCountryNonideologyName?THIS$
+New_Marxism_party:Maoists
+New_Marxism_party_long:Communist Party of $GetCountryNonideologyName?THIS$ (Maoist)
+Socialism_party:Socialists
+Socialism_party_long:Socialist Party of $GetCountryNonideologyName?THIS$
+Reactionism_party:Nationalists
+Reactionism_party_long:Nationalist Party of $GetCountryNonideologyName?THIS$

@@ -1,0 +1,4 @@
+# LEB
+set_color 102 2 60 yes 
+reset_color
+set_ruling_party Socialism

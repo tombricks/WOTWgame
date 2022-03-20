@@ -1,0 +1,5 @@
+# EST
+set_color 90 94 140 yes 
+reset_color
+set_cosmetic_base EST_SSR
+set_ruling_party Marxism_Leninism

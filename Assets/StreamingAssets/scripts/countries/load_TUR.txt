@@ -1,0 +1,4 @@
+# TUR
+set_color 199 74 71 yes 
+reset_color
+set_ruling_party Marxism_Leninism

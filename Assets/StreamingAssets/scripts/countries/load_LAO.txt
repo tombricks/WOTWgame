@@ -1,0 +1,4 @@
+# LAO
+set_color 120 25 18 yes 
+reset_color
+set_ruling_party Marxism_Leninism

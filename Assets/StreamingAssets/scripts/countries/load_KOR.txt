@@ -1,0 +1,4 @@
+# KOR
+set_color 151 78 62 yes 
+reset_color
+set_ruling_party New_Marxism

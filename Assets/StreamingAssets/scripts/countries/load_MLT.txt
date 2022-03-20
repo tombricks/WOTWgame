@@ -1,0 +1,4 @@
+# MLT
+set_color 140 68 115 yes 
+reset_color
+set_ruling_party Marxism_Leninism

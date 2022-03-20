@@ -1,0 +1,4 @@
+# AUS
+set_color 194 198 215 yes 
+reset_color
+set_ruling_party Marxism_Leninism

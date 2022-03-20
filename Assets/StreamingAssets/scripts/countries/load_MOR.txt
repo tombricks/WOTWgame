@@ -1,0 +1,4 @@
+# MOR
+set_color 191 43 162 yes 
+reset_color
+set_ruling_party Socialism

@@ -1,0 +1,4 @@
+# KKK
+set_color 200 100 100 yes 
+reset_color
+set_ruling_party Reactionism

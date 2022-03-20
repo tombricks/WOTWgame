@@ -1,0 +1,4 @@
+# HUN
+set_color 64 118 118 yes 
+reset_color
+set_ruling_party Marxism_Leninism

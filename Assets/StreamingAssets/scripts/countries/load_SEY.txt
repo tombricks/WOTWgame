@@ -1,0 +1,4 @@
+# SEY
+set_color 203 163 217 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,4 @@
+# NEP
+set_color 84 123 109 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,4 @@
+# TZN
+set_color 143 175 100 yes 
+reset_color
+set_ruling_party Socialism

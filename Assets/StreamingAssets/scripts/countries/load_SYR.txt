@@ -1,0 +1,4 @@
+# SYR
+set_color 141 107 165 yes 
+reset_color
+set_ruling_party Socialism

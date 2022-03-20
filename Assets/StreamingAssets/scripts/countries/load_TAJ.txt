@@ -1,0 +1,5 @@
+# TAJ
+set_color 75 115 167 yes 
+reset_color
+set_cosmetic_base TAJ_SSR
+set_ruling_party Marxism_Leninism

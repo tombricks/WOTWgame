@@ -1,0 +1,4 @@
+# MAN
+set_color 223 168 0 yes 
+reset_color
+set_ruling_party New_Marxism

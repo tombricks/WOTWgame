@@ -1,0 +1,4 @@
+# RWA
+set_color 188 190 123 yes 
+reset_color
+set_ruling_party New_Marxism

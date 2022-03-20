@@ -1,0 +1,4 @@
+# IRE
+set_color 80 200 124 yes 
+reset_color
+set_ruling_party Socialism

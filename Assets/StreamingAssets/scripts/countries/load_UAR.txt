@@ -1,0 +1,13 @@
+# UAR
+set_color 42 130 79 yes 
+reset_color
+set_ruling_party Socialism
+set_cosmetic_base ALG_Arab_Republic
+set_cosmetic_base TUN_Arab_Republic
+set_cosmetic_base LBA_Arab_Republic
+set_cosmetic_base JOR_Arab_Republic
+set_cosmetic_base LEB_Arab_Republic
+set_cosmetic_base SYR_Arab_Republic
+set_cosmetic_base IRQ_Arab_Republic
+set_cosmetic_base KUW_Arab_Republic
+set_cosmetic_base NYE_Arab_Republic

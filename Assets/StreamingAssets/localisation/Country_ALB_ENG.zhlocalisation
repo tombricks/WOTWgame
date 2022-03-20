@@ -1,0 +1,33 @@
+### Country Names and Cosmetics
+ALB:Albania
+ALB_DEF:Albania
+ALB_ADJ:Albanian 
+
+ALB_Hypersocialism:People's Socialist Republic of Albania
+ALB_Hypersocialism_DEF:the People's Socialist Republic of Albania
+ALB_Hypersocialism_ADJ:Albanian 
+ALB_Marxism_Leninism:People's Socialist Republic of Albania
+ALB_Marxism_Leninism_DEF:the People's Socialist Republic of Albania
+ALB_Marxism_Leninism_ADJ:Albanian 
+ALB_New_Marxism:People's Socialist Republic of Albania
+ALB_New_Marxism_DEF:the People's Socialist Republic of Albania
+ALB_New_Marxism_ADJ:Albanian 
+ALB_Socialism:People's Socialist Republic of Albania
+ALB_Socialism_DEF:the People's Socialist Republic of Albania
+ALB_Socialism_ADJ:Albanian 
+
+### Characters
+ALB_Enver_Hoxha:Enver Hoxha
+ALB_Enver_Hoxha_desc:
+
+### Parties
+ALB_Hypersocialism_party:PPSh
+ALB_Hypersocialism_party_long:Partia e Punës e Shqipërisë (Party of Labour of Albania)
+ALB_Marxism_Leninism_party:PPSh
+ALB_Marxism_Leninism_party_long:Partia e Punës e Shqipërisë (Party of Labour of Albania)
+ALB_New_Marxism_party:PPSh
+ALB_New_Marxism_party_long:Partia e Punës e Shqipërisë (Party of Labour of Albania)
+ALB_Socialism_party:PPSh
+ALB_Socialism_party_long:Partia e Punës e Shqipërisë (Party of Labour of Albania)
+
+

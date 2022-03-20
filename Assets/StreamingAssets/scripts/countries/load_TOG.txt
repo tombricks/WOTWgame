@@ -1,0 +1,4 @@
+# TOG
+set_color 81 42 104 yes 
+reset_color
+set_ruling_party Socialism

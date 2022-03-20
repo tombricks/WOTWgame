@@ -1,0 +1,5 @@
+# UKR
+set_color 49 79 173 yes 
+reset_color
+set_cosmetic_base UKR_SSR
+set_ruling_party Marxism_Leninism

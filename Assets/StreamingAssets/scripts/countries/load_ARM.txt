@@ -1,0 +1,5 @@
+# ARM
+set_color 157 32 24 yes 
+reset_color
+set_cosmetic_base ARM_SSR
+set_ruling_party Marxism_Leninism

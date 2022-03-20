@@ -1,0 +1,5 @@
+# UZB
+set_color 53 99 99 yes 
+reset_color
+set_cosmetic_base UZB_SSR
+set_ruling_party Marxism_Leninism

@@ -1,0 +1,4 @@
+# YEM
+set_color 204 90 62 yes 
+reset_color
+set_ruling_party Marxism_Leninism

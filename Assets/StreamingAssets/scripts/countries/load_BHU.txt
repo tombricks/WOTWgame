@@ -1,0 +1,4 @@
+# BHU
+set_color 255 0 255 yes 
+reset_color
+set_ruling_party New_Marxism

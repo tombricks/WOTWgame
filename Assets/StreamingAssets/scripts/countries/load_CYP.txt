@@ -1,0 +1,4 @@
+# CYP
+set_color 129 67 197 yes 
+reset_color
+set_ruling_party Marxism_Leninism

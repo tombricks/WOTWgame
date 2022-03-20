@@ -1,0 +1,4 @@
+# BVR
+set_color 53 194 255 yes 
+reset_color
+set_ruling_party Marxism_Leninism

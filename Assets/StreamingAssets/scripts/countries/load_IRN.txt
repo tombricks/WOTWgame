@@ -1,0 +1,4 @@
+# IRN
+set_color 85 123 59 yes 
+reset_color
+set_ruling_party Marxism_Leninism

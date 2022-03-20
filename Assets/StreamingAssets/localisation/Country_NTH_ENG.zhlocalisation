@@ -1,0 +1,11 @@
+### Country Names and Cosmetics
+NTH:Northern Republic
+NTH_DEF:the Northern Republic
+NTH_ADJ:Northern
+
+NTH_Marxism_Leninism:Northern Red Army
+NTH_Marxism_Leninism_DEF:the Red Army in the North
+NTH_Marxism_Leninism_ADJ:Red-Northern
+
+#traits
+NTH_turncoat:Turncoat

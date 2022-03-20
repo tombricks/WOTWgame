@@ -1,0 +1,4 @@
+# SUD
+set_color 135 80 49 yes 
+reset_color
+set_ruling_party Socialism

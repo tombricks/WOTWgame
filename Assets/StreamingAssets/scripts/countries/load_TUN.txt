@@ -1,0 +1,4 @@
+# TUN
+set_color 166 76 58 yes 
+reset_color
+set_ruling_party Socialism

@@ -1,0 +1,5 @@
+# LIT
+set_color 189 122 5 yes 
+reset_color
+set_cosmetic_base LIT_SSR
+set_ruling_party Marxism_Leninism

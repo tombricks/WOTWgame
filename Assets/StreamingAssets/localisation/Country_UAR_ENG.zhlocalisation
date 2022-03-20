@@ -1,0 +1,37 @@
+### Country Names and Cosmetics
+UAR:Arabia
+UAR_DEF:Arabia
+UAR_ADJ:Arab 
+
+UAR_Hypersocialism:Federation of Arab Republics
+UAR_Hypersocialism_DEF:the Federation of Arab Republics
+UAR_Hypersocialism_ADJ:Arab 
+UAR_Marxism_Leninism:Federation of Arab Republics
+UAR_Marxism_Leninism_DEF:the Federation of Arab Republics
+UAR_Marxism_Leninism_ADJ:Arab 
+UAR_New_Marxism:Federation of Arab Republics
+UAR_New_Marxism_DEF:the Federation of Arab Republics
+UAR_New_Marxism_ADJ:Arab 
+UAR_Socialism:Federation of Arab Republics
+UAR_Socialism_DEF:the Federation of Arab Republics
+UAR_Socialism_ADJ:Arab 
+
+### Characters
+UAR_Khaled_Mohieddin:Khaled Mohieddin
+UAR_Khaled_Mohieddin_desc:
+
+### Other
+UAR_League:League of Arab States
+UAR_declared_loyalty:Has declared loyalty to [UAR.GetNameWithFlag]
+
+### Parties
+
+
+
+
+
+
+UAR_Socialism_party:ASU
+UAR_Socialism_party_long:al-Ittiḥād al-Ištirākī al-ʿArabī (Arab Socialist Union)
+
+

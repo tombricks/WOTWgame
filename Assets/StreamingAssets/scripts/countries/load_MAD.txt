@@ -1,0 +1,4 @@
+# MAD
+set_color 186 112 134 yes 
+reset_color
+set_ruling_party Marxism_Leninism

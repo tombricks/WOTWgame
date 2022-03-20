@@ -1,0 +1,4 @@
+# COM
+set_color 189 138 244 yes 
+reset_color
+set_ruling_party New_Marxism

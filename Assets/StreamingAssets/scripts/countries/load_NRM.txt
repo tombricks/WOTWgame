@@ -1,0 +1,4 @@
+# NRM
+set_color 90 45 102 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,4 @@
+# JAP
+set_color 219 202 109 yes 
+reset_color
+set_ruling_party Socialism

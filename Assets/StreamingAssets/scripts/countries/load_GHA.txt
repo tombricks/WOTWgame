@@ -1,0 +1,4 @@
+# GHA
+set_color 230 190 138 yes 
+reset_color
+set_ruling_party Socialism

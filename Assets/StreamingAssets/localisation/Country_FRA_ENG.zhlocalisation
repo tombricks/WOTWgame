@@ -1,0 +1,26 @@
+### Country Names and Cosmetics
+FRA:France
+FRA_DEF:France
+FRA_ADJ:French 
+
+FRA_Hypersocialism:Jacobin Republic of France
+FRA_Hypersocialism_DEF:the Jacobin Republic of France
+FRA_Hypersocialism_ADJ:French 
+FRA_Marxism_Leninism:French Republic
+FRA_Marxism_Leninism_DEF:the French Republic
+FRA_Marxism_Leninism_ADJ:French 
+FRA_New_Marxism:French Republic
+FRA_New_Marxism_DEF:the French Republic
+FRA_New_Marxism_ADJ:French 
+FRA_Socialism:French Republic
+FRA_Socialism_DEF:the French Republic
+FRA_Socialism_ADJ:French 
+
+FRA_Hypersocialism_party:Jacobins
+FRA_Hypersocialism_party_long:Parti des Jacobins, amis de la liberté, de l'égalité et du socialisme (Party of the Jacobins, Friends of Freedom, Equality and Socialism)
+
+### Characters
+FRA_Roland_Castro:Ronald Castro
+FRA_Roland_Castro_desc:
+FRA_Jacques_Jurquet:Jacques Jurquet
+FRA_Jacques_Jurquet_desc:

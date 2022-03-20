@@ -1,0 +1,1091 @@
+start_section action_eat_shit_and_die
+end_section
+start_section action_eat_shit_and_die_available
+end_section
+
+scope country ZZZ
+	become_tile_owner 100
+	become_tile_owner 101
+	become_tile_owner 270
+	become_tile_owner 278
+	become_tile_owner 279
+	become_tile_owner 280
+	become_tile_owner 281
+	become_tile_owner 299
+	become_tile_owner 300
+	become_tile_owner 301
+	become_tile_owner 302
+	become_tile_owner 303
+	become_tile_owner 304
+	become_tile_owner 305
+	become_tile_owner 306
+	become_tile_owner 307
+	become_tile_owner 308
+	become_tile_owner 309
+	become_tile_owner 310
+	become_tile_owner 311
+	become_tile_owner 312
+	become_tile_owner 313
+	become_tile_owner 314
+	become_tile_owner 315
+	become_tile_owner 316
+	become_tile_owner 317
+	become_tile_owner 318
+	become_tile_owner 319
+	become_tile_owner 327
+	become_tile_owner 333
+	become_tile_owner 334
+	become_tile_owner 335
+	become_tile_owner 336
+	become_tile_owner 422
+	become_tile_owner 486
+	become_tile_owner 487
+	become_tile_owner 488
+	become_tile_owner 489
+	become_tile_owner 490
+	become_tile_owner 491
+	become_tile_owner 492
+	become_tile_owner 493
+	become_tile_owner 494
+	become_tile_owner 495
+	become_tile_owner 496
+	become_tile_owner 497
+	become_tile_owner 498
+	become_tile_owner 499
+	become_tile_owner 500
+	become_tile_owner 501
+	become_tile_owner 502
+	become_tile_owner 503
+	become_tile_owner 504
+	become_tile_owner 505
+	become_tile_owner 506
+	become_tile_owner 507
+	become_tile_owner 508
+	become_tile_owner 509
+	become_tile_owner 510
+	become_tile_owner 511
+	become_tile_owner 512
+	become_tile_owner 523
+	become_tile_owner 623
+	become_tile_owner 624
+	become_tile_owner 625
+	become_tile_owner 626
+	become_tile_owner 627
+	become_tile_owner 628
+	become_tile_owner 633
+	become_tile_owner 634
+	become_tile_owner 639
+	become_tile_owner 641
+	become_tile_owner 643
+	become_tile_owner 645
+	become_tile_owner 646
+	become_tile_owner 647
+	become_tile_owner 648
+	become_tile_owner 649
+	become_tile_owner 667
+	become_tile_owner 668
+	become_tile_owner 669
+	become_tile_owner 672
+	become_tile_owner 673
+	become_tile_owner 684
+	become_tile_owner 685
+	become_tile_owner 687
+	become_tile_owner 688
+	become_tile_owner 689
+	become_tile_owner 690
+	become_tile_owner 691
+	become_tile_owner 692
+	become_tile_owner 693
+	become_tile_owner 694
+	become_tile_owner 695
+	become_tile_owner 696
+	become_tile_owner 698
+	become_tile_owner 702
+	become_tile_owner 703
+	become_tile_owner 704
+	become_tile_owner 705
+	become_tile_owner 706
+	become_tile_owner 707
+	become_tile_owner 710
+	become_tile_owner 711
+	become_tile_owner 712
+	become_tile_owner 713
+	become_tile_owner 720
+	become_tile_owner 721
+	become_tile_owner 725
+	become_tile_owner 726
+	become_tile_owner 730
+	become_tile_owner 733
+	become_tile_owner 734
+	become_tile_owner 737
+	become_tile_owner 738
+end_scope
+scope country RUS
+	become_tile_owner 11
+	become_tile_owner 12
+	become_tile_owner 13
+	become_tile_owner 40
+	become_tile_owner 73
+	become_tile_owner 78
+	become_tile_owner 80
+	become_tile_owner 89
+	become_tile_owner 91
+	become_tile_owner 93
+	become_tile_owner 94
+	become_tile_owner 95
+	become_tile_owner 96
+	become_tile_owner 111
+	become_tile_owner 137
+	become_tile_owner 146
+	become_tile_owner 147
+	become_tile_owner 148
+	become_tile_owner 149
+	become_tile_owner 150
+	become_tile_owner 188
+	become_tile_owner 189
+	become_tile_owner 190
+	become_tile_owner 191
+	become_tile_owner 192
+	become_tile_owner 193
+	become_tile_owner 194
+	become_tile_owner 195
+	become_tile_owner 196
+	become_tile_owner 197
+	become_tile_owner 198
+	become_tile_owner 199
+	become_tile_owner 200
+	become_tile_owner 201
+	become_tile_owner 202
+	become_tile_owner 203
+	become_tile_owner 204
+	become_tile_owner 205
+	become_tile_owner 206
+	become_tile_owner 207
+	become_tile_owner 208
+	become_tile_owner 209
+	become_tile_owner 210
+	become_tile_owner 213
+	become_tile_owner 214
+	become_tile_owner 215
+	become_tile_owner 216
+	become_tile_owner 217
+	become_tile_owner 218
+	become_tile_owner 219
+	become_tile_owner 220
+	become_tile_owner 221
+	become_tile_owner 222
+	become_tile_owner 223
+	become_tile_owner 224
+	become_tile_owner 225
+	become_tile_owner 226
+	become_tile_owner 227
+	become_tile_owner 228
+	become_tile_owner 229
+	become_tile_owner 230
+	become_tile_owner 231
+	become_tile_owner 232
+	become_tile_owner 233
+	become_tile_owner 234
+	become_tile_owner 235
+	become_tile_owner 236
+	become_tile_owner 237
+	become_tile_owner 238
+	become_tile_owner 239
+	become_tile_owner 240
+	become_tile_owner 241
+	become_tile_owner 242
+	become_tile_owner 243
+	become_tile_owner 244
+	become_tile_owner 245
+	become_tile_owner 246
+	become_tile_owner 247
+	become_tile_owner 248
+	become_tile_owner 249
+	become_tile_owner 250
+	become_tile_owner 251
+	become_tile_owner 252
+	become_tile_owner 253
+	become_tile_owner 254
+	become_tile_owner 255
+	become_tile_owner 256
+	become_tile_owner 257
+	become_tile_owner 258
+	become_tile_owner 259
+	become_tile_owner 260
+	become_tile_owner 262
+	become_tile_owner 263
+	become_tile_owner 264
+	become_tile_owner 265
+	become_tile_owner 329
+	become_tile_owner 351
+	become_tile_owner 397
+	become_tile_owner 398
+	become_tile_owner 399
+	become_tile_owner 400
+	become_tile_owner 401
+	become_tile_owner 402
+	become_tile_owner 403
+	become_tile_owner 404
+	become_tile_owner 405
+	become_tile_owner 406
+	become_tile_owner 407
+	become_tile_owner 408
+	become_tile_owner 409
+	become_tile_owner 420
+	become_tile_owner 463
+	become_tile_owner 516
+	become_tile_owner 537
+	become_tile_owner 555
+	become_tile_owner 560
+	become_tile_owner 561
+	become_tile_owner 562
+	become_tile_owner 563
+	become_tile_owner 564
+	become_tile_owner 565
+	become_tile_owner 566
+	become_tile_owner 567
+	become_tile_owner 568
+	become_tile_owner 569
+	become_tile_owner 570
+	become_tile_owner 571
+	become_tile_owner 572
+	become_tile_owner 573
+	become_tile_owner 574
+	become_tile_owner 575
+	become_tile_owner 576
+	become_tile_owner 577
+	become_tile_owner 578
+	become_tile_owner 579
+	become_tile_owner 580
+	become_tile_owner 581
+	become_tile_owner 582
+	become_tile_owner 583
+	become_tile_owner 584
+	become_tile_owner 585
+	become_tile_owner 586
+	become_tile_owner 587
+	become_tile_owner 588
+	become_tile_owner 589
+	become_tile_owner 590
+	become_tile_owner 637
+	become_tile_owner 644
+	become_tile_owner 651
+	become_tile_owner 652
+	become_tile_owner 653
+	become_tile_owner 654
+	become_tile_owner 655
+	become_tile_owner 657
+	become_tile_owner 722
+	become_tile_owner 732
+	become_tile_owner 742
+	become_tile_owner 763
+	become_tile_owner 766
+	become_tile_owner 784
+	become_tile_owner 808
+	become_tile_owner 809
+	become_tile_owner 810
+	become_tile_owner 811
+	become_tile_owner 812
+	become_tile_owner 813
+	become_tile_owner 814
+	become_tile_owner 815
+	become_tile_owner 821
+	become_tile_owner 822
+	become_tile_owner 823
+	become_tile_owner 824
+	become_tile_owner 825
+	become_tile_owner 826
+	become_tile_owner 827
+	become_tile_owner 828
+	become_tile_owner 829
+	become_tile_owner 830
+	become_tile_owner 831
+	become_tile_owner 832
+	become_tile_owner 833
+	become_tile_owner 834
+end_scope
+scope country POL
+	become_tile_owner 5
+	become_tile_owner 10
+	become_tile_owner 63
+	become_tile_owner 66
+	become_tile_owner 67
+	become_tile_owner 68
+	become_tile_owner 85
+	become_tile_owner 86
+	become_tile_owner 87
+	become_tile_owner 88
+	become_tile_owner 90
+	become_tile_owner 92
+	become_tile_owner 97
+	become_tile_owner 98
+	become_tile_owner 762
+	become_tile_owner 807
+end_scope
+scope country GER
+	become_tile_owner 42
+	become_tile_owner 50
+	become_tile_owner 51
+	become_tile_owner 52
+	become_tile_owner 53
+	become_tile_owner 54
+	become_tile_owner 55
+	become_tile_owner 56
+	become_tile_owner 57
+	become_tile_owner 58
+	become_tile_owner 59
+	become_tile_owner 60
+	become_tile_owner 61
+	become_tile_owner 62
+	become_tile_owner 64
+	become_tile_owner 65
+end_scope
+scope country CZE
+	become_tile_owner 9
+	become_tile_owner 69
+	become_tile_owner 70
+	become_tile_owner 71
+	become_tile_owner 72
+	become_tile_owner 74
+	become_tile_owner 75
+	become_tile_owner 664
+end_scope
+scope country FRA
+	become_tile_owner 1
+	become_tile_owner 14
+	become_tile_owner 15
+	become_tile_owner 16
+	become_tile_owner 17
+	become_tile_owner 18
+	become_tile_owner 19
+	become_tile_owner 20
+	become_tile_owner 21
+	become_tile_owner 22
+	become_tile_owner 23
+	become_tile_owner 24
+	become_tile_owner 25
+	become_tile_owner 26
+	become_tile_owner 27
+	become_tile_owner 28
+	become_tile_owner 29
+	become_tile_owner 30
+	become_tile_owner 31
+	become_tile_owner 32
+	become_tile_owner 33
+	become_tile_owner 735
+	become_tile_owner 785
+	become_tile_owner 806
+end_scope
+scope country CHI
+	become_tile_owner 283
+	become_tile_owner 287
+	become_tile_owner 322
+	become_tile_owner 325
+	become_tile_owner 326
+	become_tile_owner 328
+	become_tile_owner 591
+	become_tile_owner 592
+	become_tile_owner 593
+	become_tile_owner 594
+	become_tile_owner 595
+	become_tile_owner 596
+	become_tile_owner 597
+	become_tile_owner 598
+	become_tile_owner 599
+	become_tile_owner 600
+	become_tile_owner 601
+	become_tile_owner 602
+	become_tile_owner 603
+	become_tile_owner 604
+	become_tile_owner 605
+	become_tile_owner 606
+	become_tile_owner 607
+	become_tile_owner 608
+	become_tile_owner 609
+	become_tile_owner 610
+	become_tile_owner 611
+	become_tile_owner 612
+	become_tile_owner 613
+	become_tile_owner 614
+	become_tile_owner 615
+	become_tile_owner 616
+	become_tile_owner 617
+	become_tile_owner 618
+	become_tile_owner 619
+	become_tile_owner 620
+	become_tile_owner 621
+	become_tile_owner 622
+	become_tile_owner 714
+	become_tile_owner 715
+	become_tile_owner 716
+	become_tile_owner 717
+	become_tile_owner 728
+	become_tile_owner 729
+	become_tile_owner 743
+	become_tile_owner 744
+	become_tile_owner 745
+	become_tile_owner 746
+	become_tile_owner 747
+	become_tile_owner 748
+	become_tile_owner 749
+	become_tile_owner 750
+	become_tile_owner 751
+	become_tile_owner 752
+	become_tile_owner 753
+	become_tile_owner 754
+	become_tile_owner 755
+	become_tile_owner 756
+	become_tile_owner 757
+	become_tile_owner 758
+	become_tile_owner 759
+	become_tile_owner 760
+	become_tile_owner 761
+end_scope
+scope country MON
+	become_tile_owner 330
+	become_tile_owner 817
+	become_tile_owner 818
+	become_tile_owner 819
+	become_tile_owner 820
+end_scope
+scope country AUS
+	become_tile_owner 4
+	become_tile_owner 152
+	become_tile_owner 153
+end_scope
+scope country YUG
+	become_tile_owner 45
+	become_tile_owner 102
+	become_tile_owner 103
+	become_tile_owner 104
+	become_tile_owner 105
+	become_tile_owner 106
+	become_tile_owner 107
+	become_tile_owner 108
+	become_tile_owner 109
+	become_tile_owner 163
+	become_tile_owner 736
+	become_tile_owner 764
+	become_tile_owner 802
+	become_tile_owner 803
+	become_tile_owner 804
+end_scope
+scope country HUN
+	become_tile_owner 43
+	become_tile_owner 154
+	become_tile_owner 155
+end_scope
+scope country ROM
+	become_tile_owner 46
+	become_tile_owner 76
+	become_tile_owner 79
+	become_tile_owner 81
+	become_tile_owner 82
+	become_tile_owner 83
+	become_tile_owner 84
+end_scope
+scope country BUL
+	become_tile_owner 48
+	become_tile_owner 77
+	become_tile_owner 211
+	become_tile_owner 212
+	become_tile_owner 801
+end_scope
+scope country ALB
+	become_tile_owner 44
+	become_tile_owner 805
+end_scope
+scope country GRE
+	become_tile_owner 47
+	become_tile_owner 182
+	become_tile_owner 184
+	become_tile_owner 185
+	become_tile_owner 186
+	become_tile_owner 187
+	become_tile_owner 731
+end_scope
+scope country SWI
+	become_tile_owner 3
+	become_tile_owner 151
+end_scope
+scope country SPR
+	become_tile_owner 41
+	become_tile_owner 118
+	become_tile_owner 165
+	become_tile_owner 166
+	become_tile_owner 167
+	become_tile_owner 168
+	become_tile_owner 169
+	become_tile_owner 170
+	become_tile_owner 171
+	become_tile_owner 172
+	become_tile_owner 173
+	become_tile_owner 174
+	become_tile_owner 175
+	become_tile_owner 176
+	become_tile_owner 177
+	become_tile_owner 178
+	become_tile_owner 788
+	become_tile_owner 789
+	become_tile_owner 790
+	become_tile_owner 791
+	become_tile_owner 792
+	become_tile_owner 793
+	become_tile_owner 794
+end_scope
+scope country POR
+	become_tile_owner 112
+	become_tile_owner 179
+	become_tile_owner 180
+	become_tile_owner 181
+	become_tile_owner 697
+	become_tile_owner 795
+end_scope
+scope country ENG
+	become_tile_owner 120
+	become_tile_owner 121
+	become_tile_owner 122
+	become_tile_owner 123
+	become_tile_owner 125
+	become_tile_owner 126
+	become_tile_owner 127
+	become_tile_owner 128
+	become_tile_owner 129
+	become_tile_owner 130
+	become_tile_owner 131
+	become_tile_owner 132
+	become_tile_owner 133
+	become_tile_owner 136
+	become_tile_owner 338
+end_scope
+scope country IRE
+	become_tile_owner 113
+	become_tile_owner 134
+	become_tile_owner 135
+end_scope
+scope country ITA
+	become_tile_owner 2
+	become_tile_owner 39
+	become_tile_owner 114
+	become_tile_owner 115
+	become_tile_owner 117
+	become_tile_owner 156
+	become_tile_owner 157
+	become_tile_owner 158
+	become_tile_owner 159
+	become_tile_owner 160
+	become_tile_owner 161
+	become_tile_owner 162
+end_scope
+scope country BEL
+	become_tile_owner 6
+	become_tile_owner 34
+end_scope
+scope country HOL
+	become_tile_owner 7
+	become_tile_owner 35
+	become_tile_owner 36
+end_scope
+scope country LUX
+	become_tile_owner 8
+end_scope
+scope country DEN
+	become_tile_owner 37
+	become_tile_owner 99
+	become_tile_owner 337
+end_scope
+scope country SWE
+	become_tile_owner 38
+	become_tile_owner 124
+	become_tile_owner 138
+	become_tile_owner 139
+	become_tile_owner 140
+	become_tile_owner 141
+	become_tile_owner 145
+	become_tile_owner 666
+end_scope
+scope country NOR
+	become_tile_owner 110
+	become_tile_owner 142
+	become_tile_owner 143
+	become_tile_owner 144
+end_scope
+scope country MLT
+	become_tile_owner 116
+end_scope
+scope country IRN
+	become_tile_owner 266
+	become_tile_owner 410
+	become_tile_owner 411
+	become_tile_owner 412
+	become_tile_owner 413
+	become_tile_owner 414
+	become_tile_owner 416
+	become_tile_owner 417
+	become_tile_owner 418
+	become_tile_owner 421
+end_scope
+scope country UAR
+	become_tile_owner 446
+	become_tile_owner 447
+	become_tile_owner 452
+	become_tile_owner 453
+	become_tile_owner 456
+	become_tile_owner 457
+	become_tile_owner 552
+end_scope
+scope country PAL
+	become_tile_owner 454
+end_scope
+scope country TUR
+	become_tile_owner 49
+	become_tile_owner 164
+	become_tile_owner 339
+	become_tile_owner 340
+	become_tile_owner 341
+	become_tile_owner 342
+	become_tile_owner 343
+	become_tile_owner 344
+	become_tile_owner 345
+	become_tile_owner 346
+	become_tile_owner 347
+	become_tile_owner 348
+	become_tile_owner 349
+	become_tile_owner 350
+	become_tile_owner 352
+	become_tile_owner 353
+	become_tile_owner 354
+	become_tile_owner 355
+	become_tile_owner 356
+	become_tile_owner 797
+	become_tile_owner 798
+	become_tile_owner 799
+	become_tile_owner 800
+end_scope
+scope country AFG
+	become_tile_owner 267
+	become_tile_owner 415
+end_scope
+scope country IND
+	become_tile_owner 320
+	become_tile_owner 321
+	become_tile_owner 423
+	become_tile_owner 424
+	become_tile_owner 425
+	become_tile_owner 426
+	become_tile_owner 427
+	become_tile_owner 428
+	become_tile_owner 429
+	become_tile_owner 431
+	become_tile_owner 432
+	become_tile_owner 433
+	become_tile_owner 434
+	become_tile_owner 435
+	become_tile_owner 436
+	become_tile_owner 437
+	become_tile_owner 438
+	become_tile_owner 439
+end_scope
+scope country PAK
+	become_tile_owner 440
+	become_tile_owner 441
+	become_tile_owner 442
+	become_tile_owner 443
+	become_tile_owner 444
+	become_tile_owner 445
+	become_tile_owner 787
+end_scope
+scope country BNG
+	become_tile_owner 430
+end_scope
+scope country NEP
+	become_tile_owner 323
+end_scope
+scope country BHU
+	become_tile_owner 324
+end_scope
+scope country BRM
+	become_tile_owner 288
+	become_tile_owner 640
+end_scope
+scope country LAO
+	become_tile_owner 670
+end_scope
+scope country VIE
+	become_tile_owner 286
+	become_tile_owner 671
+end_scope
+scope country CAM
+	become_tile_owner 741
+end_scope
+scope country THA
+	become_tile_owner 289
+	become_tile_owner 724
+end_scope
+scope country JOR
+	become_tile_owner 455
+end_scope
+scope country CYP
+	become_tile_owner 183
+end_scope
+scope country YEM
+	become_tile_owner 659
+end_scope
+scope country NIR
+	become_tile_owner 119
+end_scope
+scope country KOR
+	become_tile_owner 525
+	become_tile_owner 527
+end_scope
+scope country ALG
+	become_tile_owner 459
+	become_tile_owner 460
+	become_tile_owner 513
+	become_tile_owner 514
+end_scope
+scope country TUN
+	become_tile_owner 458
+	become_tile_owner 665
+end_scope
+scope country LBA
+	become_tile_owner 273
+	become_tile_owner 448
+	become_tile_owner 449
+	become_tile_owner 450
+	become_tile_owner 451
+	become_tile_owner 661
+	become_tile_owner 662
+	become_tile_owner 663
+	become_tile_owner 836
+	become_tile_owner 837
+	become_tile_owner 838
+end_scope
+scope country LEB
+	become_tile_owner 553
+end_scope
+scope country SYR
+	become_tile_owner 554
+	become_tile_owner 677
+	become_tile_owner 680
+end_scope
+scope country IRQ
+	become_tile_owner 291
+	become_tile_owner 675
+	become_tile_owner 676
+end_scope
+scope country KUW
+	become_tile_owner 656
+end_scope
+scope country MOR
+	become_tile_owner 290
+	become_tile_owner 461
+	become_tile_owner 462
+	become_tile_owner 699
+	become_tile_owner 783
+end_scope
+scope country SUD
+	become_tile_owner 549
+	become_tile_owner 551
+	become_tile_owner 767
+end_scope
+scope country ETH
+	become_tile_owner 271
+	become_tile_owner 550
+end_scope
+scope country SOM
+	become_tile_owner 269
+	become_tile_owner 559
+end_scope
+scope country DJI
+	become_tile_owner 268
+end_scope
+scope country TAI
+	become_tile_owner 524
+end_scope
+scope country CAN
+	become_tile_owner 276
+	become_tile_owner 331
+	become_tile_owner 332
+	become_tile_owner 464
+	become_tile_owner 465
+	become_tile_owner 466
+	become_tile_owner 467
+	become_tile_owner 468
+	become_tile_owner 469
+	become_tile_owner 470
+	become_tile_owner 471
+	become_tile_owner 472
+	become_tile_owner 473
+	become_tile_owner 682
+	become_tile_owner 683
+	become_tile_owner 739
+	become_tile_owner 740
+end_scope
+scope country JAP
+	become_tile_owner 282
+	become_tile_owner 526
+	become_tile_owner 528
+	become_tile_owner 529
+	become_tile_owner 530
+	become_tile_owner 531
+	become_tile_owner 532
+	become_tile_owner 533
+	become_tile_owner 534
+	become_tile_owner 535
+	become_tile_owner 536
+end_scope
+scope country MRT
+	become_tile_owner 557
+	become_tile_owner 786
+end_scope
+scope country MLI
+	become_tile_owner 556
+	become_tile_owner 782
+end_scope
+scope country SEN
+	become_tile_owner 272
+end_scope
+scope country USA
+	become_tile_owner 261
+	become_tile_owner 357
+	become_tile_owner 358
+	become_tile_owner 359
+	become_tile_owner 360
+	become_tile_owner 361
+	become_tile_owner 362
+	become_tile_owner 363
+	become_tile_owner 364
+	become_tile_owner 365
+	become_tile_owner 366
+	become_tile_owner 367
+	become_tile_owner 368
+	become_tile_owner 369
+	become_tile_owner 629
+	become_tile_owner 630
+	become_tile_owner 631
+	become_tile_owner 632
+	become_tile_owner 638
+	become_tile_owner 642
+	become_tile_owner 650
+	become_tile_owner 686
+	become_tile_owner 727
+	become_tile_owner 816
+end_scope
+scope country GMB
+	become_tile_owner 701
+end_scope
+scope country ILL
+	become_tile_owner 373
+	become_tile_owner 395
+end_scope
+scope country GLA
+	become_tile_owner 393
+	become_tile_owner 394
+	become_tile_owner 396
+end_scope
+scope country KKK
+	become_tile_owner 370
+	become_tile_owner 371
+	become_tile_owner 372
+end_scope
+scope country KAC
+	become_tile_owner 381
+	become_tile_owner 387
+	become_tile_owner 388
+end_scope
+scope country CIA
+	become_tile_owner 374
+	become_tile_owner 380
+	become_tile_owner 382
+	become_tile_owner 383
+	become_tile_owner 384
+end_scope
+scope country CAL
+	become_tile_owner 378
+	become_tile_owner 379
+end_scope
+scope country CAS
+	become_tile_owner 385
+	become_tile_owner 386
+end_scope
+scope country TEX
+	become_tile_owner 375
+end_scope
+scope country NMX
+	become_tile_owner 376
+end_scope
+scope country ARI
+	become_tile_owner 377
+end_scope
+scope country NTH
+	become_tile_owner 389
+	become_tile_owner 390
+	become_tile_owner 391
+	become_tile_owner 392
+end_scope
+scope country MEX
+	become_tile_owner 277
+	become_tile_owner 474
+	become_tile_owner 475
+	become_tile_owner 476
+	become_tile_owner 477
+	become_tile_owner 478
+	become_tile_owner 479
+	become_tile_owner 480
+	become_tile_owner 481
+	become_tile_owner 482
+	become_tile_owner 483
+	become_tile_owner 484
+	become_tile_owner 485
+end_scope
+scope country AST
+	become_tile_owner 285
+	become_tile_owner 517
+	become_tile_owner 518
+	become_tile_owner 519
+	become_tile_owner 520
+	become_tile_owner 521
+	become_tile_owner 522
+	become_tile_owner 674
+end_scope
+scope country NZL
+	become_tile_owner 284
+	become_tile_owner 635
+	become_tile_owner 636
+	become_tile_owner 723
+end_scope
+scope country CHA
+	become_tile_owner 774
+	become_tile_owner 775
+end_scope
+scope country NGR
+	become_tile_owner 515
+	become_tile_owner 781
+end_scope
+scope country GNB
+	become_tile_owner 296
+end_scope
+scope country KEN
+	become_tile_owner 547
+end_scope
+scope country TZN
+	become_tile_owner 546
+end_scope
+scope country MZB
+	become_tile_owner 544
+end_scope
+scope country UGA
+	become_tile_owner 548
+end_scope
+scope country SAF
+	become_tile_owner 275
+	become_tile_owner 681
+	become_tile_owner 719
+end_scope
+scope country NMB
+	become_tile_owner 541
+end_scope
+scope country BOT
+	become_tile_owner 542
+end_scope
+scope country ZIM
+	become_tile_owner 545
+end_scope
+scope country ANG
+	become_tile_owner 540
+	become_tile_owner 796
+end_scope
+scope country ZAM
+	become_tile_owner 771
+end_scope
+scope country MLW
+	become_tile_owner 770
+end_scope
+scope country CBR
+	become_tile_owner 772
+end_scope
+scope country COG
+	become_tile_owner 295
+	become_tile_owner 538
+	become_tile_owner 718
+end_scope
+scope country CAR
+	become_tile_owner 660
+end_scope
+scope country RWA
+	become_tile_owner 768
+end_scope
+scope country BRD
+	become_tile_owner 769
+end_scope
+scope country GAB
+	become_tile_owner 539
+end_scope
+scope country CMR
+	become_tile_owner 773
+end_scope
+scope country EQG
+	become_tile_owner 297
+end_scope
+scope country NGA
+	become_tile_owner 558
+end_scope
+scope country BIF
+	become_tile_owner 835
+end_scope
+scope country BFA
+	become_tile_owner 778
+end_scope
+scope country GNA
+	become_tile_owner 780
+end_scope
+scope country SIE
+	become_tile_owner 700
+end_scope
+scope country LIB
+	become_tile_owner 298
+end_scope
+scope country IVO
+	become_tile_owner 779
+end_scope
+scope country GHA
+	become_tile_owner 274
+end_scope
+scope country TOG
+	become_tile_owner 777
+end_scope
+scope country DAH
+	become_tile_owner 776
+end_scope
+scope country MAD
+	become_tile_owner 543
+end_scope
+scope country COM
+	become_tile_owner 708
+end_scope
+scope country SEY
+	become_tile_owner 709
+end_scope
+scope country NYE
+	become_tile_owner 293
+end_scope
+scope country ARA
+	become_tile_owner 840
+end_scope
+scope country QAT
+	become_tile_owner 765
+	become_tile_owner 839
+end_scope
+scope country OMA
+	become_tile_owner 294
+	become_tile_owner 658
+end_scope
+scope country ISI
+	become_tile_owner 292
+	become_tile_owner 678
+	become_tile_owner 679
+end_scope
+scope country KUR
+	become_tile_owner 419
+end_scope

@@ -1,0 +1,4 @@
+# THA
+set_color 80 35 89 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,4 @@
+# SWI
+set_color 38 34 25 yes 
+reset_color
+set_ruling_party Reactionism

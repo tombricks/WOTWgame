@@ -1,0 +1,4 @@
+# LBA
+set_color 79 130 42 yes 
+reset_color
+set_ruling_party Socialism

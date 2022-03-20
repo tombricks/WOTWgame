@@ -1,0 +1,4 @@
+# EGY
+set_color 163 132 81 yes 
+reset_color
+set_ruling_party Socialism

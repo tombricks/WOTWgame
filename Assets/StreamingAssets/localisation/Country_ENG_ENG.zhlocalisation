@@ -1,0 +1,48 @@
+### Country Names and Cosmetics
+ENG:Britain
+ENG_DEF:Britain
+ENG_ADJ:British 
+
+ENG_Hypersocialism:Commonwealth of Britain
+ENG_Hypersocialism_DEF:the Commonwealth of Britain
+ENG_Hypersocialism_ADJ:British 
+ENG_Marxism_Leninism:Commonwealth of Britain
+ENG_Marxism_Leninism_DEF:the Commonwealth of Britain
+ENG_Marxism_Leninism_ADJ:British 
+ENG_New_Marxism:Commonwealth of Britain
+ENG_New_Marxism_DEF:the Commonwealth of Britain
+ENG_New_Marxism_ADJ:British 
+ENG_Socialism:Commonwealth of Britain
+ENG_Socialism_DEF:the Commonwealth of Britain
+ENG_Socialism_ADJ:British 
+
+### Parties
+ENG_Hypersocialism_party:CMLR # christsoc better
+ENG_Hypersocialism_party_long:Committee for Marxist-Leninist Revolution
+ENG_Marxism_Leninism_party:CPGB
+ENG_Marxism_Leninism_party_long:Communist Party of Great Britain
+ENG_New_Marxism_party:CPGB-ML
+ENG_New_Marxism_party_long:Communist Party of Great Britain (Marxist-Leninist Tendency)
+ENG_Socialism_party:Labour # militant pogger
+ENG_Socialism_party_long:Labour Party
+
+
+
+### Characters
+ENG_Tony_Benn:Tony Benn
+ENG_Tony_Benn_desc:
+
+ENG_Reg_Birch:Reg Birch
+ENG_Reg_Birch_desc:
+
+ENG_John_Buckle:John Buckle
+ENG_John_Buckle_desc:
+
+ENG_Gordon_McLennan:Gordon McLennan
+ENG_Gordon_McLennan_desc:
+
+ENG_Andy_Brooks:Andy Brooks
+ENG_Andy_Brooks_desc:
+
+### Other
+ENG_IRE_faction:Council of the British Isles

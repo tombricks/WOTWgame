@@ -1,0 +1,4 @@
+# TAI
+set_color 84 0 11 yes 
+reset_color
+set_ruling_party Hypersocialism

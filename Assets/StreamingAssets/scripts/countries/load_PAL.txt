@@ -1,0 +1,4 @@
+# PAL
+set_color 178 78 106 yes 
+reset_color
+set_ruling_party Socialism

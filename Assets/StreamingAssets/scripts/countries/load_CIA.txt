@@ -1,0 +1,4 @@
+# CIA
+set_color 60 75 150 yes 
+reset_color
+set_ruling_party Reactionism

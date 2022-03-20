@@ -1,0 +1,4 @@
+# IVO
+set_color 116 116 184 yes 
+reset_color
+set_ruling_party Hypersocialism

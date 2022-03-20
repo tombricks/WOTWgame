@@ -1,0 +1,4 @@
+# SEN
+set_color 114 89 52 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,4 @@
+# NTH
+set_color 100 0 0 yes 
+reset_color
+set_ruling_party Marxism_Leninism

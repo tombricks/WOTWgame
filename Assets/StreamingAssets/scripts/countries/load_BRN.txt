@@ -1,0 +1,4 @@
+# BRN
+set_color 94 123 142 yes 
+reset_color
+set_ruling_party Marxism_Leninism

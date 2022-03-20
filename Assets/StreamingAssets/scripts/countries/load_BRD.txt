@@ -1,0 +1,4 @@
+# BRD
+set_color 146 201 177 yes 
+reset_color
+set_ruling_party New_Marxism

@@ -1,0 +1,841 @@
+TILE_1:Corsica
+TILE_2:Latium
+TILE_3:Switzerland
+TILE_4:Lower Austria
+TILE_5:Ermland-Masuren
+TILE_6:Vlaanderen
+TILE_7:Holland
+TILE_8:Luxemburg
+TILE_9:Bohemia
+TILE_10:Warszawa
+TILE_11:Kaunas
+TILE_12:Vidzeme
+TILE_13:Pärnu
+TILE_14:Brittany
+TILE_15:Normandy
+TILE_16:Ile de France
+TILE_17:Franche-Comte
+TILE_18:Champagne
+TILE_19:Aquitaine
+TILE_20:Rhone
+TILE_21:Provence
+TILE_22:Languedoc
+TILE_23:Poitou
+TILE_24:Centre
+TILE_25:Limousin
+TILE_26:Auvergne
+TILE_27:Bourgogne
+TILE_28:Alsace-Lorraine
+TILE_29:Nord-Pas-de-Calais
+TILE_30:Loire
+TILE_31:Midi Pyrenees
+TILE_32:Alpes
+TILE_33:Centre-Sud
+TILE_34:Wallonie
+TILE_35:Brabant
+TILE_36:Friesland
+TILE_37:Sjaelland
+TILE_38:Norrland
+TILE_39:South Tyrol
+TILE_40:Altai Krai
+TILE_41:Madrid
+TILE_42:Moselland
+TILE_43:Northern Hungary
+TILE_44:Albania
+TILE_45:Vojvodina
+TILE_46:Muntenia
+TILE_47:Attica
+TILE_48:Sofia
+TILE_49:Ankara
+TILE_50:Württemberg
+TILE_51:Rhineland
+TILE_52:Oberbayern
+TILE_53:Niederbayern
+TILE_54:Franken
+TILE_55:Hessen
+TILE_56:Weser-Ems
+TILE_57:Westfalen
+TILE_58:Schleswig-Holstein
+TILE_59:Hannover
+TILE_60:Thüringen
+TILE_61:Mecklenburg
+TILE_62:Vorpommern
+TILE_63:Hinterpommern
+TILE_64:Brandenburg
+TILE_65:Sachsen
+TILE_66:Niederschlesien
+TILE_67:Oberschlesien
+TILE_68:Ostmark
+TILE_69:Sudetenland
+TILE_70:Western Slovakia
+TILE_71:Eastern Slovakia
+TILE_72:Zaolzie
+TILE_73:Carpathian Ruthenia
+TILE_74:Eastern Sudetenland
+TILE_75:Moravia
+TILE_76:North Transylvania
+TILE_77:Dobrudja
+TILE_78:Bessarabia
+TILE_79:Moldova
+TILE_80:Bucovina
+TILE_81:Oltenia
+TILE_82:Banat
+TILE_83:Crisana
+TILE_84:Transylvania
+TILE_85:Danzig
+TILE_86:Poznan
+TILE_87:Łódz
+TILE_88:Kraków
+TILE_89:Stanisławów
+TILE_90:Kielce
+TILE_91:Lwów
+TILE_92:Lublin
+TILE_93:Wołyn
+TILE_94:Polesie
+TILE_95:Nowogródek
+TILE_96:Wilejka
+TILE_97:Białystok
+TILE_98:Płock
+TILE_99:Jutland
+TILE_100:Iceland
+TILE_101:Greenland
+TILE_102:Slovenia
+TILE_103:Dalmatia
+TILE_104:Bosnia
+TILE_105:Montenegro
+TILE_106:Macedonia
+TILE_107:Serbia
+TILE_108:Morava
+TILE_109:Croatia
+TILE_110:Østlandet
+TILE_111:Uusimaa
+TILE_112:Lisbon
+TILE_113:Leinster
+TILE_114:Sardinia
+TILE_115:Sicily
+TILE_116:Malta
+TILE_117:Campania
+TILE_118:Gibraltar
+TILE_119:Northern Ireland
+TILE_120:Scottish Highlands
+TILE_121:Lothian
+TILE_122:Wales
+TILE_123:South-West England
+TILE_124:Gotland
+TILE_125:East Anglia
+TILE_126:Greater London Area
+TILE_127:Sussex
+TILE_128:West Midlands
+TILE_129:East Midlands
+TILE_130:Yorkshire
+TILE_131:Northern England
+TILE_132:Lancashire
+TILE_133:Lanark
+TILE_134:Connaught
+TILE_135:Munster
+TILE_136:Aberdeenshire
+TILE_137:Crimea
+TILE_138:Scania
+TILE_139:Småland
+TILE_140:Västergötland
+TILE_141:Svealand
+TILE_142:Vestlandet
+TILE_143:Trøndelag
+TILE_144:Nord-Norge
+TILE_145:Åland
+TILE_146:Karjala
+TILE_147:Salla
+TILE_148:Lappi
+TILE_149:Pohjanmaa
+TILE_150:Savo
+TILE_151:Eastern Switzerland
+TILE_152:Upper Austria
+TILE_153:Tyrol
+TILE_154:Alföld
+TILE_155:Transdanubia
+TILE_156:Calabria
+TILE_157:Abruzzo
+TILE_158:Piedmont
+TILE_159:Lombardy
+TILE_160:Veneto
+TILE_161:Emilia Romagna
+TILE_162:Tuscany
+TILE_163:Zara
+TILE_164:Dodecanese
+TILE_165:Cataluña
+TILE_166:Western Aragón
+TILE_167:Valencia
+TILE_168:Murcia
+TILE_169:Sevilla
+TILE_170:Extremadura
+TILE_171:Galicia
+TILE_172:Navarra
+TILE_173:Granada
+TILE_174:León
+TILE_175:Ciudad Real
+TILE_176:Burgos
+TILE_177:Islas Baleares
+TILE_178:Islas Canarias
+TILE_179:Beja
+TILE_180:Porto
+TILE_181:Guarda
+TILE_182:Crete
+TILE_183:Cyprus
+TILE_184:Thrace
+TILE_185:Epirus
+TILE_186:Peloponnese
+TILE_187:Aegean Islands
+TILE_188:Memel
+TILE_189:Žemaitija
+TILE_190:Kurzeme
+TILE_191:Tartu
+TILE_192:Odessa
+TILE_193:Chernigov
+TILE_194:Mozyr
+TILE_195:Leningrad
+TILE_196:Kherson
+TILE_197:Mykolaiv
+TILE_198:Vinnytsia
+TILE_199:Khmelnytskyi
+TILE_200:Zaporozhe
+TILE_201:Zhytomyr
+TILE_202:Kiev
+TILE_203:Cherkasy
+TILE_204:Bobruysk
+TILE_205:Kaluga
+TILE_206:Minsk
+TILE_207:Vitebsk
+TILE_208:Luga
+TILE_209:Pskov
+TILE_210:Nevel
+TILE_211:Burgas
+TILE_212:Plovdiv
+TILE_213:Murmansk
+TILE_214:Arkhangelsk
+TILE_215:Onega
+TILE_216:Olonets
+TILE_217:Stalingrad
+TILE_218:Rostov
+TILE_219:Moscow
+TILE_220:Kursk
+TILE_221:Kharkov
+TILE_222:Orel
+TILE_223:Tula
+TILE_224:Bryansk
+TILE_225:Sumy
+TILE_226:Dnipropetrovsk
+TILE_227:Stalino
+TILE_228:Voroshilovgrad
+TILE_229:Azerbaijan
+TILE_230:Armenia
+TILE_231:Georgia
+TILE_232:Dagestan
+TILE_233:Sochi
+TILE_234:Krasnodar
+TILE_235:Stavropol
+TILE_236:Astrakhan
+TILE_237:Kalmykia
+TILE_238:Volgodonsk
+TILE_239:Saratov
+TILE_240:Belgorod
+TILE_241:Gomel
+TILE_242:Smolensk
+TILE_243:Roslavl
+TILE_244:Volkhov
+TILE_245:Millerovo
+TILE_246:Rzhev
+TILE_247:Kalinin
+TILE_248:Yaroslavl
+TILE_249:Kazan
+TILE_250:Ulyanovsky
+TILE_251:Kuybyshev
+TILE_252:Gorky
+TILE_253:Ivanovo
+TILE_254:Ryazan
+TILE_255:Penza
+TILE_256:Chuvashia
+TILE_257:Tambov
+TILE_258:Lipetsk
+TILE_259:Poltava
+TILE_260:Voronezh
+TILE_261:Ohio
+TILE_262:Pechora
+TILE_263:Novgorod
+TILE_264:Tikhvin
+TILE_265:Mikhaylovka
+TILE_266:Tehran
+TILE_267:Kabul
+TILE_268:French Somaliland
+TILE_269:British Somaliland
+TILE_270:Pitcairn Island
+TILE_271:Ethiopia
+TILE_272:Senegal
+TILE_273:Awbari
+TILE_274:Ghana
+TILE_275:Transvaal
+TILE_276:Southern Ontario
+TILE_277:Mexico City
+TILE_278:Pampas
+TILE_279:Santiago
+TILE_280:Mato Grosso
+TILE_281:Maldives
+TILE_282:Kanto
+TILE_283:Gansu
+TILE_284:North Island
+TILE_285:New South Wales
+TILE_286:Southern Indochina
+TILE_287:Taklamakan
+TILE_288:Burma
+TILE_289:Siam
+TILE_290:Spanish Africa
+TILE_291:Baghdad
+TILE_292:Nejd
+TILE_293:Yemen
+TILE_294:Oman
+TILE_295:Leopoldville
+TILE_296:Portuguese Guinea
+TILE_297:Equatorial Guinea
+TILE_298:Liberia
+TILE_299:Falkland Islands
+TILE_300:Uruguay
+TILE_301:Paraguay
+TILE_302:La Paz
+TILE_303:Lima
+TILE_304:Panamá
+TILE_305:Ecuador
+TILE_306:Cundinamarca
+TILE_307:Miranda
+TILE_308:Leeward Islands
+TILE_309:Suriname
+TILE_310:French Guiana
+TILE_311:British Honduras
+TILE_312:Honduras
+TILE_313:Guatemala
+TILE_314:El Salvador
+TILE_315:Cuba
+TILE_316:Costa Rica
+TILE_317:Nicaragua
+TILE_318:Haiti
+TILE_319:Dominican Republic
+TILE_320:French India
+TILE_321:Goa
+TILE_322:Nagqu
+TILE_323:Nepal
+TILE_324:Bhutan
+TILE_325:Yunnan
+TILE_326:Hong Kong
+TILE_327:Manila
+TILE_328:Kirin
+TILE_329:Tannu Tuva
+TILE_330:Ulaanbaatar
+TILE_331:Newfoundland
+TILE_332:Labrador
+TILE_333:North Borneo
+TILE_334:Kalimantan
+TILE_335:Java
+TILE_336:Singapore
+TILE_337:Faroe Islands
+TILE_338:Gloucestershire
+TILE_339:Izmir
+TILE_340:Bursa
+TILE_341:Edirne
+TILE_342:Antalya
+TILE_343:Afyon
+TILE_344:Malatya
+TILE_345:Mersin
+TILE_346:Konya
+TILE_347:Izmit
+TILE_348:Kayseri
+TILE_349:Sivas
+TILE_350:Diyarbakır
+TILE_351:Vologda
+TILE_352:Hakkari
+TILE_353:Tunceli
+TILE_354:Trabzon
+TILE_355:Samsun
+TILE_356:Kastamonu
+TILE_357:New England
+TILE_358:New York
+TILE_359:New Jersey
+TILE_360:Pennsylvania
+TILE_361:Maryland
+TILE_362:Virginia
+TILE_363:North Carolina
+TILE_364:South Carolina
+TILE_365:Georgia
+TILE_366:Florida
+TILE_367:Alabama
+TILE_368:Tennessee
+TILE_369:Kentucky
+TILE_370:Mississippi
+TILE_371:Louisiana
+TILE_372:Arkansas
+TILE_373:Missouri
+TILE_374:Oklahoma
+TILE_375:Texas
+TILE_376:New Mexico
+TILE_377:Arizona
+TILE_378:California
+TILE_379:Nevada
+TILE_380:Utah
+TILE_381:Wyoming
+TILE_382:Colorado
+TILE_383:Kansas
+TILE_384:Nebraska
+TILE_385:Oregon
+TILE_386:Washington
+TILE_387:Idaho
+TILE_388:Montana
+TILE_389:North Dakota
+TILE_390:South Dakota
+TILE_391:Minnesota
+TILE_392:Iowa
+TILE_393:Michigan
+TILE_394:Wisconsin
+TILE_395:Illinois
+TILE_396:Indiana
+TILE_397:Syktyvkar
+TILE_398:Perm
+TILE_399:Udmurtia
+TILE_400:Kirov
+TILE_401:Balakovo
+TILE_402:Akhtubinsk
+TILE_403:Tyumen
+TILE_404:Kyzyl Orda
+TILE_405:Tashkent
+TILE_406:Guryev
+TILE_407:Ural'sk
+TILE_408:Vladivostok
+TILE_409:Khabarovsk
+TILE_410:Sistan
+TILE_411:Isfahan
+TILE_412:Fars
+TILE_413:Khuzestan
+TILE_414:Kerman
+TILE_415:Herat
+TILE_416:Khorasan
+TILE_417:Hamadan
+TILE_418:Semnan
+TILE_419:Mahabad
+TILE_420:Northern Iran
+TILE_421:Kurdistan
+TILE_422:Ceylon
+TILE_423:Madurai
+TILE_424:Madras
+TILE_425:Mysore
+TILE_426:Orissa
+TILE_427:Hyderabad
+TILE_428:Gujarat
+TILE_429:Bombay
+TILE_430:East Bengal
+TILE_431:West Bengal
+TILE_432:Assam
+TILE_433:Rajahsthan
+TILE_434:Arunachal Pradesh
+TILE_435:Bihar
+TILE_436:Jabalpur
+TILE_437:Indore
+TILE_438:Lucknow
+TILE_439:Delhi
+TILE_440:Punjab
+TILE_441:Kashmir
+TILE_442:Peshawar
+TILE_443:Sind
+TILE_444:Baluchistan
+TILE_445:Quetta
+TILE_446:Cairo
+TILE_447:Alexandria
+TILE_448:Tripoli
+TILE_449:Misrata
+TILE_450:Benghazi
+TILE_451:Jabal al Akhdar
+TILE_452:Matrouh
+TILE_453:Sinai
+TILE_454:Palestine
+TILE_455:Jordan
+TILE_456:Aswan
+TILE_457:Eastern Desert
+TILE_458:Tunisia
+TILE_459:Algiers
+TILE_460:Constantine
+TILE_461:Casablanca
+TILE_462:Marrakech
+TILE_463:Alaska
+TILE_464:Nova Scotia
+TILE_465:New Brunswick
+TILE_466:Quebec
+TILE_467:Manitoba
+TILE_468:Saint Lawrence
+TILE_469:Saskatchewan
+TILE_470:Alberta
+TILE_471:Northwestern Canada
+TILE_472:Northern Canada
+TILE_473:British Columbia
+TILE_474:Yucatan
+TILE_475:Chiapas
+TILE_476:Oaxaca
+TILE_477:Veracruz
+TILE_478:Jalisco
+TILE_479:Tamaulipas
+TILE_480:Coahuila
+TILE_481:Durango
+TILE_482:Chihuahua
+TILE_483:Sonora
+TILE_484:Baja California
+TILE_485:Guerrero
+TILE_486:Meta
+TILE_487:Santa Cruz
+TILE_488:Bolivar
+TILE_489:Zulia
+TILE_490:Pastaza
+TILE_491:Loreto
+TILE_492:Arequipa
+TILE_493:La Libertad
+TILE_494:Ucayali
+TILE_495:Amazonas
+TILE_496:Minas Gerais
+TILE_497:Maranhão
+TILE_498:Rio Grande do Norte
+TILE_499:Bahia
+TILE_500:Rio de Janeiro
+TILE_501:São Paulo
+TILE_502:Rio Grande do Sul
+TILE_503:Santa Catarina
+TILE_504:Iguaçú
+TILE_505:Goiás
+TILE_506:Antofagasta
+TILE_507:Magallanes
+TILE_508:Tucuman
+TILE_509:Chaco Austral
+TILE_510:Mesopotamia
+TILE_511:Mendoza
+TILE_512:Patagonia
+TILE_513:Tlemcen
+TILE_514:Algerian Desert
+TILE_515:Southern Sahara
+TILE_516:Taymyria
+TILE_517:Victoria
+TILE_518:Tasmania
+TILE_519:South Australia
+TILE_520:Northern Territory
+TILE_521:Queensland
+TILE_522:Western Australia
+TILE_523:Papua
+TILE_524:Taiwan
+TILE_525:South Korea
+TILE_526:Okinawa
+TILE_527:North Korea
+TILE_528:Kyushu
+TILE_529:Chugoku
+TILE_530:Shikoku
+TILE_531:Kansai
+TILE_532:Tokai
+TILE_533:Tohoku
+TILE_534:Hokuriku
+TILE_535:Koshinetsu
+TILE_536:Hokkaido
+TILE_537:South Sakhalin
+TILE_538:Central Congo
+TILE_539:Gabon
+TILE_540:South Angola
+TILE_541:South West Africa
+TILE_542:Bechuanaland
+TILE_543:Madagascar
+TILE_544:Mozambique
+TILE_545:Rhodesia
+TILE_546:Tanganyika
+TILE_547:Kenya
+TILE_548:Uganda
+TILE_549:Sudan
+TILE_550:Eritrea
+TILE_551:Khartoum
+TILE_552:Western Desert
+TILE_553:Lebanon
+TILE_554:Damascus
+TILE_555:Kuril Islands
+TILE_556:Mali
+TILE_557:Mauritania
+TILE_558:Nigeria
+TILE_559:Somaliland
+TILE_560:Nikolayevsk
+TILE_561:Amur
+TILE_562:Okhotsk
+TILE_563:Chita
+TILE_564:Buryatia
+TILE_565:Bodaybo
+TILE_566:Irkutsk
+TILE_567:Bratsk
+TILE_568:Krasnoyarsk
+TILE_569:Kemerovo
+TILE_570:Novosibirsk
+TILE_571:Omsk
+TILE_572:Chelyabinsk
+TILE_573:Zlatoust
+TILE_574:Yakutsk
+TILE_575:Kirensk
+TILE_576:Yeniseisk
+TILE_577:Surgut
+TILE_578:Tomsk
+TILE_579:Salekhard
+TILE_580:Tobolsk
+TILE_581:Northern Urals
+TILE_582:Magnitogorsk
+TILE_583:Kostanay
+TILE_584:Ashkhabad
+TILE_585:Navoi
+TILE_586:Alma-Ata
+TILE_587:Ust Urt
+TILE_588:Semipalatinsk
+TILE_589:Ayaguz
+TILE_590:Akmolinsk
+TILE_591:Hainan
+TILE_592:Guangzhou
+TILE_593:Guangdong
+TILE_594:Nanning
+TILE_595:Fujian
+TILE_596:Zhejiang
+TILE_597:Shandong
+TILE_598:Jiangsu
+TILE_599:Guangxi
+TILE_600:Jiangxi
+TILE_601:Xikang
+TILE_602:Hunan
+TILE_603:Guizhou
+TILE_604:Qinghai
+TILE_605:Sichuan
+TILE_606:Anhui
+TILE_607:Henan
+TILE_608:Beijing
+TILE_609:East Hebei
+TILE_610:Jehol
+TILE_611:South Chahar
+TILE_612:Chahar
+TILE_613:Shanghai
+TILE_614:Hebei
+TILE_615:Shanxi
+TILE_616:Ningxia
+TILE_617:Urumqi
+TILE_618:Dzungaria
+TILE_619:Yarkand
+TILE_620:Hubei
+TILE_621:Suiyuan
+TILE_622:Shaanxi
+TILE_623:Luzon
+TILE_624:Central islands
+TILE_625:Samar
+TILE_626:Palawan
+TILE_627:Mindanao
+TILE_628:Cebu
+TILE_629:Hawaii
+TILE_630:Johnston Atoll
+TILE_631:Midway Island
+TILE_632:Wake Island
+TILE_633:Marshall Islands
+TILE_634:Solomon Islands
+TILE_635:New Caledonia
+TILE_636:Fiji
+TILE_637:Kamchatka
+TILE_638:Guam
+TILE_639:Gilbert Islands
+TILE_640:Mandalay
+TILE_641:Tahiti
+TILE_642:Phoenix Island
+TILE_643:Ellice Islands
+TILE_644:Northeast Siberia
+TILE_645:Iwo Jima
+TILE_646:Saipan
+TILE_647:Palau
+TILE_648:Marcus Island
+TILE_649:Galapagos Islands
+TILE_650:Attu Island
+TILE_651:Ufa
+TILE_652:Orenburg
+TILE_653:Sverdlovsk
+TILE_654:Oyrot Region
+TILE_655:North Sakhalin
+TILE_656:Kuwait
+TILE_657:Birobidzhan
+TILE_658:Abu Dhabi
+TILE_659:Aden
+TILE_660:Equatorial Africa
+TILE_661:Gharyan
+TILE_662:Sabha
+TILE_663:Darnah
+TILE_664:Southern Slovakia
+TILE_665:Gabès
+TILE_666:Lappland
+TILE_667:Lesser Sunda Islands
+TILE_668:The Moluccas
+TILE_669:West Papua
+TILE_670:Laos
+TILE_671:Tonkin
+TILE_672:Sumatra
+TILE_673:Sulawesi
+TILE_674:Central Australia
+TILE_675:Al Hajara
+TILE_676:Mosul
+TILE_677:Aleppo
+TILE_678:Rub al Khali
+TILE_679:Hejaz
+TILE_680:Deir-az-Zur
+TILE_681:Cape
+TILE_682:Northern Ontario
+TILE_683:Northeastern Canada
+TILE_684:Caroline Islands
+TILE_685:Panamá Canal
+TILE_686:Puerto Rico
+TILE_687:British Guyana
+TILE_688:Chaco Boreal
+TILE_689:Jamaica
+TILE_690:Northern Bahamas
+TILE_691:Trinidad
+TILE_692:Windward Islands
+TILE_693:Southern Bahamas
+TILE_694:French Caribbean
+TILE_695:Curaçao
+TILE_696:Bermuda
+TILE_697:Madeira
+TILE_698:Azores
+TILE_699:Rio de Oro
+TILE_700:Sierra Leone
+TILE_701:Gambia
+TILE_702:Cape Verde
+TILE_703:Ascension
+TILE_704:Saint Helena
+TILE_705:Sao Tome
+TILE_706:Reunion
+TILE_707:Mauritius
+TILE_708:Comoro Islands
+TILE_709:Seychelles
+TILE_710:Diego Garcia
+TILE_711:Christmas Island
+TILE_712:Cocos Islands
+TILE_713:Kerguelen
+TILE_714:Heilungkiang
+TILE_715:Liaoning
+TILE_716:Liaotung
+TILE_717:Sungkiang
+TILE_718:Stanleyville
+TILE_719:Natal
+TILE_720:South Georgia
+TILE_721:Portuguese Timor
+TILE_722:Petsamo
+TILE_723:South Island
+TILE_724:Northern Malay
+TILE_725:Nauru
+TILE_726:Samoa
+TILE_727:Line Islands
+TILE_728:Guangzhouwan
+TILE_729:Macau
+TILE_730:St Pierre and Miquelon
+TILE_731:Central Macedonia
+TILE_732:Pamir
+TILE_733:Andaman
+TILE_734:Nendo
+TILE_735:Savoy
+TILE_736:Istria
+TILE_737:Bismarck
+TILE_738:Aru Islands
+TILE_739:Haida Gwaii
+TILE_740:Vancouver Island
+TILE_741:Cambodia
+TILE_742:Stalinabad
+TILE_743:Qingdao
+TILE_744:Xian
+TILE_745:Dalian
+TILE_746:Ordos
+TILE_747:Dali
+TILE_748:Zunyi
+TILE_749:Huangshan
+TILE_750:Changde
+TILE_751:Liangshan
+TILE_752:Ganzi
+TILE_753:Gannan
+TILE_754:Golog
+TILE_755:Haixi
+TILE_756:Jiuquan
+TILE_757:Shigatse
+TILE_758:Ngari
+TILE_759:Kunlun Shan
+TILE_760:Dabancheng
+TILE_761:Hulunbuir
+TILE_762:Katowice
+TILE_763:Königsberg
+TILE_764:West Banat
+TILE_765:Qatar
+TILE_766:Southern Bessarabia
+TILE_767:North Darfur
+TILE_768:Rwanda
+TILE_769:Burundi
+TILE_770:Malawi
+TILE_771:Zambia
+TILE_772:Middle Congo
+TILE_773:Cameroon
+TILE_774:Chad
+TILE_775:B.E.T.
+TILE_776:Dahomey
+TILE_777:Togo
+TILE_778:Upper Volta
+TILE_779:Ivory Coast
+TILE_780:Guinea
+TILE_781:Niger
+TILE_782:Tombouctou
+TILE_783:Sidi Ifni
+TILE_784:Wilno
+TILE_785:Picardy
+TILE_786:Mauritanian Desert
+TILE_787:Northern Kashmir
+TILE_788:Salamanca
+TILE_789:Córdoba
+TILE_790:Asturias
+TILE_791:Valladolid
+TILE_792:País Vasco
+TILE_793:Guadalajara
+TILE_794:Eastern Aragón
+TILE_795:Santarém
+TILE_796:North Angola
+TILE_797:Istanbul
+TILE_798:Amasya
+TILE_799:Hatay
+TILE_800:Van
+TILE_801:Moesia
+TILE_802:Kosovo
+TILE_803:Southern Serbia
+TILE_804:Herzegovina
+TILE_805:Northern Epirus
+TILE_806:Pyrénées-Atlantiques
+TILE_807:Gdynia
+TILE_808:Rīga
+TILE_809:Zemgale
+TILE_810:Latgale
+TILE_811:Saaremaa
+TILE_812:Harju
+TILE_813:Virumaa
+TILE_814:Sūduva
+TILE_815:Aukštaitija
+TILE_816:West Virginia
+TILE_817:Gobi
+TILE_818:Khovd
+TILE_819:Dornod
+TILE_820:Khövsgöl
+TILE_821:Chechnya-Ingushetia
+TILE_822:Chukotka
+TILE_823:Karakalpakstan
+TILE_824:Yamalia
+TILE_825:Nenets
+TILE_826:Abkhazia
+TILE_827:Kabardino-Balkaria
+TILE_828:North Ossetia
+TILE_829:Engels-Marxstadt
+TILE_830:Bukhara
+TILE_831:Khiva
+TILE_832:Tashauz
+TILE_833:Mari El
+TILE_834:Balta-Tiraspol
+TILE_835:Biafra
+TILE_836:Benghazi Desert
+TILE_837:Az Zawiyah
+TILE_838:Al Khums
+TILE_839:Qatif
+TILE_840:Northern Arabia
+

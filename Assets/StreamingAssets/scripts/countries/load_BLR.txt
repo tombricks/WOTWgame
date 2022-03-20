@@ -1,0 +1,5 @@
+# BLR
+set_color 93 69 168 yes 
+reset_color
+set_cosmetic_base BLR_SSR
+set_ruling_party Marxism_Leninism

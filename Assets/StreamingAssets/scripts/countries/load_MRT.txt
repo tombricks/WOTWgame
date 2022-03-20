@@ -1,0 +1,4 @@
+# MRT
+set_color 212 46 18 yes 
+reset_color
+set_ruling_party Socialism

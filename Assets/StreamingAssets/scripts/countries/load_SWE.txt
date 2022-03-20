@@ -1,0 +1,4 @@
+# SWE
+set_color 43 104 162 yes 
+reset_color
+set_ruling_party Marxism_Leninism

@@ -1,0 +1,4 @@
+# NMB
+set_color 227 228 121 yes 
+reset_color
+set_ruling_party New_Marxism

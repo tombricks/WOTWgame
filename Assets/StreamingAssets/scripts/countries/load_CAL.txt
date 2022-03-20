@@ -1,0 +1,4 @@
+# CAL
+set_color 150 75 40 yes 
+reset_color
+set_ruling_party Marxism_Leninism

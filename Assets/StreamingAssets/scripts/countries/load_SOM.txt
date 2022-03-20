@@ -1,0 +1,4 @@
+# SOM
+set_color 81 84 142 yes 
+reset_color
+set_ruling_party New_Marxism

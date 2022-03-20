@@ -1,0 +1,4 @@
+# KUW
+set_color 42 198 91 yes 
+reset_color
+set_ruling_party Socialism

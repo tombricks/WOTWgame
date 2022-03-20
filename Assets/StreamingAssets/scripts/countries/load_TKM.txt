@@ -1,0 +1,5 @@
+# TKM
+set_color 75 84 40 yes 
+reset_color
+set_cosmetic_base TKM_SSR
+set_ruling_party Marxism_Leninism

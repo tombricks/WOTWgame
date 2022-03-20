@@ -1,0 +1,5 @@
+# LAT
+set_color 109 58 70 yes 
+reset_color
+set_cosmetic_base LAT_SSR
+set_ruling_party Marxism_Leninism

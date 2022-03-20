@@ -1,0 +1,4 @@
+# LIB
+set_color 247 158 0 yes 
+reset_color
+set_ruling_party Socialism

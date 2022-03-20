@@ -1,0 +1,4 @@
+# CAR
+set_color 160 133 117 yes 
+reset_color
+set_ruling_party Socialism

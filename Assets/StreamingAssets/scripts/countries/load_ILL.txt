@@ -1,0 +1,4 @@
+# ILL
+set_color 10 10 35 yes 
+reset_color
+set_ruling_party Reactionism

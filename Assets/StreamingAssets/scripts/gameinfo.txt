@@ -1,0 +1,2 @@
+﻿default_lang ENG
+default_tag RUS

@@ -1,0 +1,4 @@
+# COG
+set_color 230 128 153 yes 
+reset_color
+set_ruling_party New_Marxism

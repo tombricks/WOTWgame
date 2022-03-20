@@ -1,0 +1,4 @@
+# ARI
+set_color 200 10 200 yes 
+reset_color
+set_ruling_party Marxism_Leninism

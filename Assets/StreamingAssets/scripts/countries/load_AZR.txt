@@ -1,0 +1,5 @@
+# AZR
+set_color 206 181 97 yes 
+reset_color
+set_cosmetic_base AZR_SSR
+set_ruling_party Marxism_Leninism

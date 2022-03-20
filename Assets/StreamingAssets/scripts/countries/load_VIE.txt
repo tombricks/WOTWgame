@@ -1,0 +1,4 @@
+# VIE
+set_color 218 78 76 yes 
+reset_color
+set_ruling_party Marxism_Leninism

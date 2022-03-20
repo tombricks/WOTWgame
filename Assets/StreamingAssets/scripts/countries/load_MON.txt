@@ -1,0 +1,4 @@
+# MON
+set_color 121 93 150 yes 
+reset_color
+set_ruling_party Marxism_Leninism

@@ -1,0 +1,4 @@
+# POR
+set_color 0 124 69 yes 
+reset_color
+set_ruling_party Marxism_Leninism

@@ -1,0 +1,4 @@
+# GNA
+set_color 0 147 147 yes 
+reset_color
+set_ruling_party New_Marxism

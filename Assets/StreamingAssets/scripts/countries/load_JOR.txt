@@ -1,0 +1,4 @@
+# JOR
+set_color 121 84 69 yes 
+reset_color
+set_ruling_party Socialism

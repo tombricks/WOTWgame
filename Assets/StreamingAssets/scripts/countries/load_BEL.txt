@@ -1,0 +1,4 @@
+# BEL
+set_color 193 171 8 yes 
+reset_color
+set_ruling_party Marxism_Leninism

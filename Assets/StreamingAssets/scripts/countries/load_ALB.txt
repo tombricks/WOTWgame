@@ -1,0 +1,4 @@
+# ALB
+set_color 74 11 19 yes 
+reset_color
+set_ruling_party Hypersocialism

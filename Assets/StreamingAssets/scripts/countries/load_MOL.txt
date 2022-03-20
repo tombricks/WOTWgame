@@ -1,0 +1,5 @@
+# MOL
+set_color 109 51 13 yes 
+reset_color
+set_cosmetic_base MOL_SSR
+set_ruling_party Marxism_Leninism

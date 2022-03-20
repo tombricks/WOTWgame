@@ -1,0 +1,4 @@
+# GNB
+set_color 125 211 188 yes 
+reset_color
+set_ruling_party Socialism

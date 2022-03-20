@@ -1,0 +1,4 @@
+# MEX
+set_color 156 35 31 yes 
+reset_color
+set_ruling_party Marxism_Leninism

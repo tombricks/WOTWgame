@@ -1,0 +1,4 @@
+# PAK
+set_color 50 112 61 yes 
+reset_color
+set_ruling_party New_Marxism

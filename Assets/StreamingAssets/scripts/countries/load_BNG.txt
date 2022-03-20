@@ -1,0 +1,4 @@
+# BNG
+set_color 237 70 228 yes 
+reset_color
+set_ruling_party Marxism_Leninism

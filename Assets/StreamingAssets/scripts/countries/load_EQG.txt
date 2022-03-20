@@ -1,0 +1,4 @@
+# EQG
+set_color 95 50 43 yes 
+reset_color
+set_ruling_party Hypersocialism

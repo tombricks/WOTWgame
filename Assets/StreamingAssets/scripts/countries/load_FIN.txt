@@ -1,0 +1,5 @@
+# FIN
+set_color 124 93 124 yes 
+reset_color
+set_cosmetic_base FIN_SSR
+set_ruling_party Marxism_Leninism

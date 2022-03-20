@@ -1,0 +1,4 @@
+# LUX
+set_color 101 156 184 yes 
+reset_color
+set_ruling_party New_Marxism

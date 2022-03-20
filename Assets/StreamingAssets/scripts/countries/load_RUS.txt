@@ -1,0 +1,5 @@
+# RUS
+set_color 127 39 39 yes 
+reset_color
+set_cosmetic_base RUS_USSR
+set_ruling_party Marxism_Leninism

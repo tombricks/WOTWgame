@@ -1,0 +1,4 @@
+# ALG
+set_color 213 74 0 yes 
+reset_color
+set_ruling_party Socialism

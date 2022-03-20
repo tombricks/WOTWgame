@@ -1,0 +1,33 @@
+### Country Names and Cosmetics
+LUX:Luxembourg
+LUX_DEF:Luxembourg
+LUX_ADJ:Luxembourg 
+
+LUX_Hypersocialism:Luxembourg Soviet Republic
+LUX_Hypersocialism_DEF:the Luxembourg Soviet Republic
+LUX_Hypersocialism_ADJ:Luxembourg 
+LUX_Marxism_Leninism:Luxembourg Soviet Republic
+LUX_Marxism_Leninism_DEF:the Luxembourg Soviet Republic
+LUX_Marxism_Leninism_ADJ:Luxembourg 
+LUX_New_Marxism:Luxembourg Soviet Republic
+LUX_New_Marxism_DEF:the Luxembourg Soviet Republic
+LUX_New_Marxism_ADJ:Luxembourg 
+LUX_Socialism:Luxembourg Soviet Republic
+LUX_Socialism_DEF:the Luxembourg Soviet Republic
+LUX_Socialism_ADJ:Luxembourg 
+
+### Parties
+LUX_Hypersocialism_party:KPL
+LUX_Hypersocialism_party_long:Kommunistesch Partei vu Lëtzebuerg (Communist Party of Luxembourg)
+LUX_Marxism_Leninism_party:KPL
+LUX_Marxism_Leninism_party_long:Kommunistesch Partei vu Lëtzebuerg (Communist Party of Luxembourg)
+LUX_New_Marxism_party:KPL
+LUX_New_Marxism_party_long:Kommunistesch Partei vu Lëtzebuerg (Communist Party of Luxembourg)
+
+
+
+
+
+### Characters
+LUX_Charles_Doerner:Charles Doerner
+LUX_Charles_Doerner_desc:

@@ -1,0 +1,4 @@
+# BIF
+set_color 255 53 94 yes 
+reset_color
+set_ruling_party New_Marxism

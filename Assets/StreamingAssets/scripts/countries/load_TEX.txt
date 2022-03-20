@@ -1,0 +1,4 @@
+# TEX
+set_color 100 100 200 yes 
+reset_color
+set_ruling_party Marxism_Leninism

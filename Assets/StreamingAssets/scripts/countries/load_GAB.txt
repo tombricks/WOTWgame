@@ -1,0 +1,4 @@
+# GAB
+set_color 148 71 128 yes 
+reset_color
+set_ruling_party Socialism
